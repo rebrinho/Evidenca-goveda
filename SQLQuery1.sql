@@ -1,0 +1,2 @@
+﻿ALTER TABLE Govedo
+ALTER COLUMN Dokument VARBINARY(max); 
